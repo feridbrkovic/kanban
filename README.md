@@ -1,14 +1,12 @@
 # Kanban
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+This is a simple kanban board application. It is built using Angular and Angular Material. The application allows users to create, update, and delete tasks. The tasks are organized into four columns: Ideas, Todo, In Progress, and Done. The tasks can be moved between the columns by dragging and dropping them. The application uses local storage to persist the tasks.
+
+![alt text](src/assets/screenshot.png "Screenshot")
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
