@@ -1,6 +1,6 @@
 # Kanban
 
-This is a simple kanban board application. It is built using Angular and Angular Material. The application allows users to create, update, and delete tasks. The tasks are organized into four columns: Ideas, Todo, In Progress, and Done. The tasks can be moved between the columns by dragging and dropping them. The application uses local storage to persist the tasks.
+This is a simple kanban board application. It is built using Angular and Angular Material. The tasks are organized into four columns: Ideas, Todo, In Progress, and Done. The tasks can be moved between the columns by dragging and dropping them. The application uses local storage to persist the tasks.
 
 ![alt text](src/assets/screenshot.png "Screenshot")
 
